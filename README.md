@@ -40,4 +40,4 @@ Feel free to reach out to me for any collaboration or project opportunities.
 
 - **Email:** Kanmingxian@outlook.com
 - **LinkedIn:** [KAN MING XIAN](www.linkedin.com/in/kan-ming-xian-35b897188)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub:** [MingXian-Code](https://github.com/MingXian-Code)
