@@ -24,7 +24,7 @@ Hi👋! My name is Ming Xian, 22 years old and from Malaysia. This document prov
 - **Experience:** 3+ year
 - **Description:** I have basic knowledge of C++ and have worked on small projects involving data structures and algorithms. I am familiar with the syntax and basic concepts of the language along with basics of Arduino and had worked with a handful of small projects starting when I was 15.
 
-  ### MATLAB 📐
+### MATLAB 📐
 - **Proficiency Level:** Intermediate
 - **Experience:** 2+ years
 - **Description:** I have a medium understanding of MATLAB, including proficiency in matrix operations, data visualization, and algorithm development. I have experience with toolboxes such as Image Processing, Statistics and Machine Learning. I have worked on projects involving numerical analysis, simulations, and data analysis, and I am comfortable with writing scripts and functions to automate tasks and solve complex mathematical problems.
