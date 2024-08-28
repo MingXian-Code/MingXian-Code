@@ -7,7 +7,7 @@ Hi👋! My name is Ming Xian, 22 years old and from Malaysia. This document prov
 ### Python 🐍
 - **Proficiency Level:** Advanced
 - **Experience:** 4+ years
-- **Description:** I have extensive experience with Python, including data analysis, machine learning, automation and database management & queries. I am proficient in using libraries such as pandas, NumPy, scikit-learn, and Matplotlib considerable understanding of object-oriented programming principles.
+- **Description:** I have extensive experience with Python, including data analysis, machine learning, automation and database management & queries. I am proficient in using libraries such as pandas, NumPy, scikit-learn, and Matplotlib with considerable understanding of object-oriented programming principles.
 
 ### JavaScript 🌐
 - **Proficiency Level:** Beginner
@@ -20,7 +20,7 @@ Hi👋! My name is Ming Xian, 22 years old and from Malaysia. This document prov
 - **Description:** I have experience in building visualisations to help lead insightful decision making in school projects. I am familiar with libraries such as ggplot2, dplyr, and tidyr, and have worked on small data visualization and data manipulation projects.
 
 ### C++ 💻
-- **Proficiency Level:** Beginner
+- **Proficiency Level:** Intermediate
 - **Experience:** 3+ year
 - **Description:** I have basic knowledge of C++ and have worked on small projects involving data structures and algorithms. I am familiar with the syntax and basic concepts of the language along with basics of Arduino and had worked with a handful of small projects starting when I was 15.
 
