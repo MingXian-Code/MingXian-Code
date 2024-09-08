@@ -19,7 +19,7 @@ Hi👋! My name is Ming Xian, 22 years old and from Malaysia. This document prov
 - **Experience:** 2+ years
 - **Description:** I have experience in building visualisations to help lead insightful decision making in school projects. I am familiar with libraries such as ggplot2, dplyr, and tidyr, and have worked on small data visualization and data manipulation projects.
 
-### C++ 💻
+### C++ (Arduino) 💻
 - **Proficiency Level:** Intermediate
 - **Experience:** 3+ year
 - **Description:** I have basic knowledge of C++ and have worked on small projects involving data structures and algorithms. I am familiar with the syntax and basic concepts of the language along with basics of Arduino and had worked with a handful of small projects starting when I was 15.
