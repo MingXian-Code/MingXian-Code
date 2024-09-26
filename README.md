@@ -2,6 +2,8 @@
 
 Hi👋! My name is Ming Xian, 22 years old and from Malaysia. This document provides an overview of my programming skills and experience with various programming languages.
 
+<a href="https://app.daily.dev/kanmingxian"><img src="https://api.daily.dev/devcards/v2/HskQ2vgGir84QmN6doeb9.png?r=hrf&type=default" width="356" alt="KAN MING XIAN's Dev Card"/></a>
+
 ## Languages and Proficiency
 
 ### Python 🐍
