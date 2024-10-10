@@ -36,6 +36,6 @@ Hi👋! My name is Ming Xian, 22 years old and from Malaysia. This document prov
 Feel free to reach out to me for any collaboration or project opportunities.
 
 - **Email:** Kanmingxian@outlook.com
-- **LinkedIn:** [KAN MING XIAN](www.linkedin.com/in/kan-ming-xian-35b897188)
+- **LinkedIn:** [KAN MING XIAN](www.linkedin.com/in/kan-ming-xian)
 - **GitHub:** [MingXian-Code](https://github.com/MingXian-Code)
 - **Autodesk Instructables:** [kanmingxian](https://www.instructables.com/member/kanmingxian/)
